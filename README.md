@@ -2,7 +2,17 @@
 
 ### Table of Content
 
-- [Project Overview]
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Exploratory Data Analysis (EDA)](exploratory-data-analysisEDA)
+- [Data Analysis](data-analysis)
+- [Results/Findings](results-findings)
+- [Recommendations](#recommendations)
+- [Limitations](limitations)
+- [References](references)
+  
 
 
 
@@ -53,7 +63,7 @@ The analysis results are summarized as follows:
 2. Product Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LIV) should be targeted for marketing efforts.
 
-### Recommandations
+### Recommendations
 
 Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
